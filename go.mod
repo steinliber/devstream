@@ -10,6 +10,7 @@ require (
 	github.com/aws/aws-sdk-go-v2 v1.16.3
 	github.com/aws/aws-sdk-go-v2/config v1.15.5
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.26.9
+	github.com/cenkalti/backoff v2.2.1+incompatible
 	github.com/cenkalti/backoff/v4 v4.1.2
 	github.com/cheggaaa/pb v1.0.29
 	github.com/go-playground/validator/v10 v10.11.0
